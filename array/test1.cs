@@ -19,7 +19,7 @@ namespace Program {
 			n = int.Parse(Console.ReadLine());
 
 			arr2 = new int[n];
-			Console.WriteLine("Size if array2: {0}", arr2.Length);
+			Console.WriteLine("Size of array2: {0}", arr2.Length);
 
 
 
